@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a web developer who is passionate about making source code more maintainable and reusable and creating technology to enhance people's experience.
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning React and Spring Boot
+- 👯 I’m looking to collaborate on Music Web Player, Ecommerce and Booking Platform Website
+
 <!--
 **MangwonCassie/MangwonCassie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
