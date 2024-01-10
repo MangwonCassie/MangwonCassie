@@ -3,7 +3,7 @@
 I'm a web developer who is passionate about making source code more maintainable and reusable and creating technology to enhance people's experience.
 
 - 🔭 I’m currently working on this project. Please click the link below for further information:)
-- 
+- 📌 [MERN ECOMMERCE PROJECT] (https://github.com/MangwonCassie/MiniProject/tree/3rd_ecommerce)
 - 🌱 I’m currently learning React and Spring Boot
 - 👯 I’m looking to collaborate on Music Web Player, Ecommerce and Booking Platform Website
 
