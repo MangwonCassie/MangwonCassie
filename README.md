@@ -6,6 +6,8 @@ I'm a web developer who is passionate about making source code more maintainable
 - 📌 [MERN ECOMMERCE PROJECT] (https://github.com/MangwonCassie/MiniProject/tree/3rd_ecommerce)
 - 🌱 I’m currently learning React and Spring Boot
 - 👯 I’m looking to collaborate on Music Web Player, Ecommerce and Booking Platform Website
+- Please find the attached link below for more projects
+- 📌 [PORTFOLIO WEBSITE] (https://mangwoncassie.github.io/portfolio_deployment/ ) 
 
 <!--
 **MangwonCassie/MangwonCassie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
